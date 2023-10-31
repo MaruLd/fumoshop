@@ -1,0 +1,33 @@
+Project: fumo shop
+Tech: NextJS, Firebase, Supahost
+https://supabase.com/dashboard/project/bpncxdglixmzbnsbxhqw
+https://www.elephantsql.com/
+Features: 
+- CRUD Products 
+- Contact via forms 
+- Notifications?
+- Contact via live chat?
+
+Todo:
+- use scss with tailwind?
+- responsive
+- design filler background two side 
+- database/api
+- crud product
+- Oauth with google
+- Search bar
+- State management
+- field validation
+- add multiple image and fixed image size
+- constants folders?
+
+Blocker:
+
+
+Done:
+- Preview and Upload image for product
+- Dealt with using forms action (Server Actions) : https://www.youtube.com/watch?v=dDpZfOQBMaU
+
+- how to get multiple image file from form to upload
+solution: using useRef and
+ https://stackoverflow.com/questions/52078853/is-it-possible-to-update-filelist
